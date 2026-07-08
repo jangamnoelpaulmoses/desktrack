@@ -24,12 +24,12 @@ Routine and productivity trackers make you wire up Slack, Notion, email, and cal
 
 ## Download & install
 
-Grab the right file from the **[Releases page](../../releases/latest)**:
-
-| Your Mac | File |
+| Your Mac | Download |
 |---|---|
-| Apple Silicon (M1/M2/M3/M4) | `DeskTrack-x.x.x-arm64.dmg` |
-| Intel | `DeskTrack-x.x.x.dmg` |
+| Apple Silicon (M1/M2/M3/M4) | **[DeskTrack-0.1.0-arm64.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.1.0/DeskTrack-0.1.0-arm64.dmg)** (94 MB) |
+| Intel | **[DeskTrack-0.1.0.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.1.0/DeskTrack-0.1.0.dmg)** (100 MB) |
+
+All versions: **[Releases page](../../releases/latest)**.
 
 (Not sure? Apple menu →  About This Mac — "Chip: Apple M…" means Apple Silicon.)
 
