@@ -13,6 +13,7 @@ Routine and productivity trackers make you wire up Slack, Notion, email, and cal
 - **Today's focus** — write down your intention; DeskTrack nudges you when your activity stops matching it
 - **Day in review** — an AI-written evening summary: what got done, where time leaked, what to try tomorrow
 - **Instant manual capture** — ⌘⇧D from anywhere, or the floating on-screen button
+- **Locked-in mode** — flip the switch and DeskTrack enforces: blocked sites (YouTube, Netflix, Instagram… fully customizable) get a 20-second on-screen countdown, then those tabs close. Distracting apps get hidden. Spot something new? One click blocks it forever.
 
 ## Privacy, up front
 
@@ -26,8 +27,8 @@ Routine and productivity trackers make you wire up Slack, Notion, email, and cal
 
 | Your Mac | Download |
 |---|---|
-| Apple Silicon (M1/M2/M3/M4) | **[DeskTrack-0.1.0-arm64.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.1.0/DeskTrack-0.1.0-arm64.dmg)** (94 MB) |
-| Intel | **[DeskTrack-0.1.0.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.1.0/DeskTrack-0.1.0.dmg)** (100 MB) |
+| Apple Silicon (M1/M2/M3/M4) | **[DeskTrack-0.2.0-arm64.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.2.0/DeskTrack-0.2.0-arm64.dmg)** (94 MB) |
+| Intel | **[DeskTrack-0.2.0.dmg](https://github.com/jangamnoelpaulmoses/desktrack/releases/download/v0.2.0/DeskTrack-0.2.0.dmg)** (100 MB) |
 
 All versions: **[Releases page](../../releases/latest)**.
 
